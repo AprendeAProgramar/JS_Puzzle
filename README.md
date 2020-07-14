@@ -1,12 +1,18 @@
-<h2>Programación de una página HTML, CSS, Java Script que permite realizar un puzzle de 3x3</h2>
+<p align="center"><img src="https://github.com/AprendeAProgramar/JS_Puzzle/blob/master/puzzle.jpg"></p>
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            ![alt text](https://github.com/AprendeAProgramar/JS_Puzzle/blob/master/puzzle.jpg?raw=true)
-            </div>
-        </div>
-    </div>
-</pre>
+<p align="center">
+<a href="https://www.youtube.com/watch?v=puR1o3Jww_8"><img src="https://img.youtube.com/vi/puR1o3Jww_8/0.jpg" alt="Video con la programación del ejercicio"></a>
+</p>
+
+## Java Script Puzzle 3x3
+
+Ejercicio que pone en práctica HTML, CSS y Java Script para la creación de una página Web que permite ver un puzzle 3x3 y solucionarlo:
+
+- Maquetación básica HTML con una tabla de 3x3
+- Uso de estilos CSS para resaltar la casilla seleccionada
+- Prácticar conceptos básicos de Java Script como declaración y uso de variables, arrays e instrucciones de control básicas
+- Control y respuesta del evento click
+
+## License
+
+Este proyecto es open-source bajo [MIT license](https://opensource.org/licenses/MIT).
