@@ -1,4 +1,3 @@
-```html
 <h2>Programación de una página HTML, CSS, Java Script que permite realizar un puzzle de 3x3</h2>
 
 <pre>
